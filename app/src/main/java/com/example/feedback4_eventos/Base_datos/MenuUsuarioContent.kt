@@ -52,7 +52,8 @@ fun MenuUsuarioContent(userName: String) {
                 onBack = {},
                 onAddNovela = { showAddNovelaScreen = true },
                 onViewUserNovelas = { showUserNovelasScreen = true },
-                onConfiguracion = { showConfiguracionScreen = true }
+                onConfiguracion = { showConfiguracionScreen = true },
+                novelas = novelas // Pass the novelas list here
             )
         }
     }
