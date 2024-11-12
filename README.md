@@ -8,17 +8,19 @@ Este proyecto es una aplicación móvil desarrollada en Kotlin y Java, utilizand
 
 ## Características Principales
 
+<table>
+  <tr>
+    <td><img src="app/src/main/res/drawable/firebase.png" alt="Firebase" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/widget.png" alt="Widget" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/detalles.png" alt="Detalles" width="200"/></td>
+  </tr>
+</table>
+
 - **Firebase Firestore**: La aplicación utiliza Firebase Firestore para la gestión de datos, permitiendo almacenar y recuperar información de usuarios y novelas de manera eficiente y segura.
-  
-  ![Firebase](res/drawable/firebase.png)
 
 - **Widget de Favoritas**: Incorpora un widget que permite a los usuarios ver rápidamente sus novelas favoritas directamente desde la pantalla principal de su dispositivo.
-  
-  ![Widget](res/drawable/widget.png)
 
 - **Menú Interactivo**: La aplicación cuenta con un menú interactivo que facilita la navegación entre diferentes secciones, como agregar una nueva novela, ver la lista de novelas del usuario y acceder a la configuración de la aplicación.
-  
-  ![Detalles](res/drawable/detalles.png)
 
 ## Funcionalidades
 
