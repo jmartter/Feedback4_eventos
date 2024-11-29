@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><img src="app/src/main/res/drawable/antesbit.png" alt="Antes de la implementación del bitmap" width="200"/></td>
-    <td><img src="app/src/main/res/drawable/despuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/depuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
   </tr>
 </table>
 
