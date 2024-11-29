@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-    <td><img src="antesbit.png" alt="Antes de la implementación del bitmap" width="200"/></td>
-    <td><img src="despuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/antesbit.png" alt="Antes de la implementación del bitmap" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/despuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td><img src="pregunta2.png" alt="Captura del Network Profiler" width="200"/></td>
+    <td><img src="app/src/main/res/drawable/pregunta2.png" alt="Captura del Network Profiler" width="200"/></td>
   </tr>
 </table>
 
