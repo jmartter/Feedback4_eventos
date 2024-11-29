@@ -11,7 +11,7 @@ import com.example.feedback4_eventos.Base_datos.UserManager
 
 class NovelaWidget : AppWidgetProvider() {
     private val handler = Handler(Looper.getMainLooper())
-    private val updateInterval = 3000L // 3 seconds
+    private val updateInterval = 1800000L // 30 seconds
 
     override fun onUpdate(context: Context, appWidgetManager: AppWidgetManager, appWidgetIds: IntArray) {
         for (appWidgetId in appWidgetIds) {
