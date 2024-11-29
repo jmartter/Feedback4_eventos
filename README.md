@@ -8,16 +8,22 @@
 
 ### Capturas del Memory Profiler
 
-#### Antes de la implementación del bitmap
-![Antes de la implementación del bitmap](antesbit.png)
-
-#### Después de la implementación del bitmap
-![Después de la implementación del bitmap](despuesbit.png)
+<table>
+  <tr>
+    <td><img src="antesbit.png" alt="Antes de la implementación del bitmap" width="200"/></td>
+    <td><img src="despuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
+  </tr>
+</table>
 
 ## Mejora del Rendimiento de la Red
 
 ### Captura del Network Profiler
-![Captura del Network Profiler](pregunta2.png)
+
+<table>
+  <tr>
+    <td><img src="pregunta2.png" alt="Captura del Network Profiler" width="200"/></td>
+  </tr>
+</table>
 
 ## Optimización del Uso de la Batería
 
