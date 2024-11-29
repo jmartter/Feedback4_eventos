@@ -6,6 +6,8 @@
 
 ## Optimización del Uso de la Memoria
 
+En este apartado se menciona la creación de la clase `loadBitmapFromResource` que incorpora el uso del bitmap para optimización.
+
 ### Capturas del Memory Profiler
 
 <table>
@@ -18,6 +20,8 @@
     <td><img src="app/src/main/res/drawable/depuesbit.png" alt="Después de la implementación del bitmap" width="200"/></td>
   </tr>
 </table>
+
+La mejora ha sido muy pequeña.
 
 ## Mejora del Rendimiento de la Red
 
